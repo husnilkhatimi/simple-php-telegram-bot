@@ -1,0 +1,13 @@
+{
+    "name": "husnilkhatimi/simple-php-telegram-bot",
+    "description": "Simple telegram bot using PHP.",
+    "type": "project",
+    "require": {
+        "longman/telegram-bot": "^0.64.0"
+    },
+    "authors": [
+        {
+            "name": "Husnil Khatimi"
+        }
+    ]
+}
